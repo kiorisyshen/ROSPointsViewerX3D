@@ -1,0 +1,14 @@
+BasedOnStyle: Google
+ColumnLimit: 0
+IndentWidth: 4
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+AlignConsecutiveDeclarations: false
+AlignConsecutiveAssignments: true
+DerivePointerBinding: false
+PointerBindsToType: false
+DerivePointerAlignment: false
+PointerAlignment: Right
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+SortIncludes: false

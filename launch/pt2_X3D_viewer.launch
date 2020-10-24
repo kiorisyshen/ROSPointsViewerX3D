@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <param name="initWidth" type="int" value="800" />
+    <param name="initHeight" type="int" value="600" />
+    <param name="FPS" type="int" value="60" />
+
+    <node pkg="ROSPointsViewerX3D" name="pt2_X3D_viewer" type="pt2_X3D_viewer" output="screen"></node>
+
+</launch>
